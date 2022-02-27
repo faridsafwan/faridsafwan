@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @faridsafwan
 - 👀 I’m interested in learning something new
-- 🌱 I’m currently learning vue.js, nuxt.js, vue3, nest.js
+- 🌱 I’m currently work on vue.js, nuxt.js, vue3, nest.js
 - 💞️ I’m looking to collaborate on any opportunity 
 - 📫 How to reach me - faridsafwan@outlook.com
 
